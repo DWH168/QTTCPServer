@@ -1,6 +1,6 @@
 ## 基于QT的TCP通讯TCPServer服务端C++ 代码开源
 
-本文是TCP服务端,如需客户端请点击[基于QT的TCP客户端](https://blog.csdn.net/dwh1314/article/details/105686751)
+TCP服务端,如需客户端请点击[基于QT的TCP客户端](https://blog.csdn.net/dwh1314/article/details/105686751)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200422133112524.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2R3aDEzMTQ=,size_16,color_FFFFFF,t_70)
 Qt是一种基于C++的跨平台图形用户界面应用程序开发框架
 本次使用QT的版本是5.6
@@ -94,7 +94,7 @@ connect(currentClient,&QTcpSocket::readyRead,[=](){
         });
 ```
 界面：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/2020042213381780.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2R3aDEzMTQ=,size_16,color_FFFFFF,t_70)广东
+![在这里插入图片描述](https://img-blog.csdnimg.cn/2020042213381780.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2R3aDEzMTQ=,size_16,color_FFFFFF,t_70)
 更多资源欢迎关注微信公众号:**智慧小巷**
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200326102352938.jpg)
 
